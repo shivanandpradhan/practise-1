@@ -1,4 +1,8 @@
 line 1 
 line 2-shiva
 line 3
+<<<<<<< HEAD
 line 4 - work by develper B
+=======
+line 4 - work by develper A
+>>>>>>> de244559bf8592850dd85b6eda20ceec0e55b066
